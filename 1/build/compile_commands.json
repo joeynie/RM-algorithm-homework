@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/sjtu-rm/Workspace/1/build",
+  "command": "/usr/bin/g++   -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/ocv.dir/main.cpp.o -c /home/sjtu-rm/Workspace/1/main.cpp",
+  "file": "/home/sjtu-rm/Workspace/1/main.cpp"
+}
+]
